@@ -1,6 +1,7 @@
 #include<iostream>
 using namsespace std;
 int main(){
-	cout<<"Hello chirag";
+	cout<<"Hello world";
 	return 0;
 }
+
