@@ -6,4 +6,8 @@ System.out.print('*');
 }
 System.out.println("");
 }
-}}
+//2
+System.out.println("Second commit");
+
+}
+}
