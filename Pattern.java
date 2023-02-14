@@ -7,5 +7,6 @@ public class Pattern{
 		System.out.println("*   *");
 		//secound commit
 		//third commit
+		//fourth commit
 	}
 }
